@@ -1,0 +1,8 @@
+;Etudiant;Utilitaire;AppCtr;EtudiantTempsPlein;Section;EtudiantTempsPartiel
+Etudiant;0,0;0,0;0,0;1,0;0,0;1,0
+Utilitaire;0,0;0,0;0,1;0,0;0,0;0,0
+AppCtr;0,0;0,1;0,0;0,0;0,1;0,0
+EtudiantTempsPlein;1,0;0,0;0,0;0,0;0,0;0,0
+Section;0,0;0,0;0,1;0,0;0,0;0,0
+EtudiantTempsPartiel;1,0;0,0;0,0;0,0;0,0;0,0
+
